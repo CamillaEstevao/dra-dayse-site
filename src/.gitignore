@@ -1,7 +1,7 @@
 @"
-node_modules
-dist
-.vercel
+node_modules/
+dist/
+.vercel/
 .env
 .env.local
 "@ | Set-Content .gitignore
